@@ -1,2 +1,0 @@
-# mercedes-clone
-# clone-mercedes
